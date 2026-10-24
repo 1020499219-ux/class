@@ -1,0 +1,1 @@
+{"name":"wine-class","version":"1.0.0","private":true,"scripts":{"dev":"python3 -m http.server 5189 --bind 127.0.0.1","check":"node --check app.js"},"dependencies":{"gsap":"^3.14.2"}}
